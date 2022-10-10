@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Merayo Barredo");
 		System.out.println("19 años 2003");
+		System.out.println("Lasaña");
 
 	}
 
